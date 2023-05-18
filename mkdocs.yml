@@ -28,6 +28,5 @@ theme:
 plugins:
   - search
   - offline
-  - with-pdf
   - tags:
       tags_file: tags.md
